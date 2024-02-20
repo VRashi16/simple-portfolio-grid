@@ -1,1 +1,1 @@
-# Simple portfolio layout using CSS-grid
+Simple portfolio layout using CSS-grid
