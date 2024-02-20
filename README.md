@@ -1,1 +1,1 @@
-# simple-portfolio-grid
+# simple-portfolio layout using CSS-grid
